@@ -306,3 +306,4 @@ Date, Time, Application,Environment,Release,Publish Type,App Job Name, App Job B
 06-30-2016,02:40:59,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,327,PLM-WINDPLM-DB,291,12 mins 3 secs,0 mins 30 secs,12 mins 34 secs
 06-30-2016,03:07:20,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,328,PLM-WINDPLM-DB,292,11 mins 9 secs,0 mins 42 secs,11 mins 51 secs
 06-30-2016,05:02:21,WINDPLM,DEV,wind_dev_4_2_30,db,PLM-WINDPLM-APP,329,PLM-WINDPLM-DB,293,12 mins 57 secs,0 mins 33 secs,13 mins 31 secs
+06-30-2016,05:30:40,AEROPLM,DEV,Release_3_11_0,all,PLM-AEROPLM-APP,181,PLM-AEROPLM-DB,193,12 mins 4 secs,0 mins 0 secs,12 mins 4 secs
