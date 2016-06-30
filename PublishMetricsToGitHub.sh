@@ -10,3 +10,4 @@ echo "Uploading metrics file to github and gh-pages"
 git push origin master
 git push origin master:gh-pages
 echo "Done...."
+echo "Open this URL to see the metrics in a web page: http://veersudhir83.github.io/csv-to-html-table/"
