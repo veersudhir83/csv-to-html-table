@@ -1,7 +1,8 @@
 #!/bin/bash
-echo "Changing to csv-to-html-table project and downloading latest metrics file from artifactory"
-cd d:
-cd gegdc/SV40298/GIT-Repositories/csv-to-html-table/data/
+echo "Changing to csv-to-html-table project's data directory and downloading latest metrics file from artifactory"
+#cd d:
+#cd gegdc/SV40298/GIT-Repositories/csv-to-html-table/data/
+cd ./data/
 curl --user 502437115:AP218X3SywtAdgFJLmbnKwwa4LS -O https://devcloud.swcoe.ge.com/artifactory/SXZZG/Applications/PLM-BUILD-METRICS/PLM_BUILD_METRICS.CSV
 echo "Downloaded Metrics file..."
 git add .
