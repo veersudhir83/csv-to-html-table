@@ -315,3 +315,4 @@ Date, Time, Application,Environment,Release,Publish Type,App Job Name, App Job B
 06-30-2016,15:16:25,ENERGYPLM,QA1,Release_6_0_80,app,PLM-ENERGYPLM-APP,246,,,15 mins 52 secs,,15 mins 52 secs
 06-30-2016,16:34:33,ENERGYPLM,QA1,Release_6_0_80,db,PLM-ENERGYPLM-APP,247,PLM-ENERGYPLM-DB,187,8 mins 27 secs,0 mins 43 secs,9 mins 10 secs
 07-01-2016,00:01:49,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,334,PLM-WINDPLM-DB,298,16 mins 6 secs,0 mins 51 secs,16 mins 57 secs
+07-01-2016,03:19:30,ENERGYPLM,QA2,Release_6_0_80,db,PLM-ENERGYPLM-APP,248,PLM-ENERGYPLM-DB,188,9 mins 56 secs,0 mins 43 secs,10 mins 40 secs
