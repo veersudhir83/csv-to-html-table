@@ -369,3 +369,8 @@ Date, Time, Application,Environment,Release,Publish Type,App Job Name, App Job B
 7/8/2016,7:12:08,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,375,PLM-WINDPLM-DB,334,38 mins 29 secs,2 mins 1 secs,40 mins 30 secs
 7/8/2016,7:39:43,ENERGYPLM,QA1,Release_6_0_82,db,PLM-ENERGYPLM-APP,267,PLM-ENERGYPLM-DB,200,22 mins 55 secs,0 mins 48 secs,23 mins 43 secs
 7/8/2016,7:51:26,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,376,,,41 mins 40 secs,,41 mins 40 secs
+07-08-2016,09:49:17,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,377,PLM-WINDPLM-DB,335,47 mins 44 secs,2 mins 17 secs,50 mins 1 secs
+07-08-2016,10:40:50,WINDPLM,QA,Release_4_2_30,db,PLM-WINDPLM-APP,378,PLM-WINDPLM-DB,336,38 mins 52 secs,0 mins 36 secs,39 mins 28 secs
+07-08-2016,14:50:17,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,379,PLM-WINDPLM-DB,337,31 mins 23 secs,0 mins 40 secs,32 mins 3 secs
+07-08-2016,23:53:51,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,380,PLM-WINDPLM-DB,338,10 mins 14 secs,0 mins 37 secs,10 mins 51 secs
+07-10-2016,10:59:39,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,381,PLM-WINDPLM-DB,339,29 mins 44 secs,0 mins 38 secs,30 mins 23 secs
