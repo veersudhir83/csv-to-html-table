@@ -451,3 +451,5 @@ Date, Time, Application,Environment,Release,Publish Type,App Job Name, App Job B
 07-22-2016,03:19:45,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,448,PLM-WINDPLM-DB,392,27 mins 51 secs,0 mins 59 secs,28 mins 51 secs,28.51
 07-22-2016,04:14:59,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,449,PLM-WINDPLM-DB,393,33 mins 40 secs,1 mins 0 secs,34 mins 40 secs,34.40
 07-22-2016,04:45:00,ENERGYPLM,QA1,Release_6_0_90,all,PLM-ENERGYPLM-APP,287,PLM-ENERGYPLM-DB,216,34 mins 2 secs,0 mins 38 secs,34 mins 41 secs,34.41
+07-22-2016,06:57:34,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,450,PLM-WINDPLM-DB,394,19 mins 41 secs,0 mins 46 secs,20 mins 27 secs,20.27
+07-22-2016,06:57:38,ENERGYPLM,QA1,Release_6_0_90,db,PLM-ENERGYPLM-APP,288,PLM-ENERGYPLM-DB,217,12 mins 7 secs,0 mins 36 secs,12 mins 44 secs,12.44
