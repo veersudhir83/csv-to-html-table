@@ -45,15 +45,15 @@ $(function () {
                 drilldown: 'AEROPLM'
             }, {
                 name: 'ENERGYPLM',
-                y: 187,
+                y: 194,
                 drilldown: 'ENERGYPLM'
             }, {
                 name: 'POWERPLM',
-                y: 1,
+                y: 6,
                 drilldown: 'POWERPLM'
             }, {
                 name: 'WINDPLM',
-                y: 230,
+                y: 263,
                 drilldown: 'WINDPLM'
             }]
         }],
@@ -93,11 +93,11 @@ $(function () {
                     ],
                     [
                         'QA1',
-                        78
+                        84
                     ],
                     [
                         'QA2',
-                        81
+                        82
                     ]
                 ]
             }, {
@@ -106,7 +106,7 @@ $(function () {
                 data: [
                     [
                         'DEV1',
-                        1
+                        6
                     ]
                 ]
             }, {
@@ -115,7 +115,7 @@ $(function () {
                 data: [
                     [
                         'DEV',
-                        39
+                        41
                     ],
                     [
                         'NEWDEV2',
@@ -123,11 +123,11 @@ $(function () {
                     ],
                     [
                         'DEV3',
-                        64
+                        75
                     ],
                     [
                         'DEV4',
-                        52
+                        61
                     ],
                     [
                         'QA',
@@ -135,11 +135,11 @@ $(function () {
                     ],
                     [
                         'QA2',
-                        30
+                        33
                     ],
                     [
                         'QA3',
-                        15
+                        23
                     ],
                     [
                         'QA4',
