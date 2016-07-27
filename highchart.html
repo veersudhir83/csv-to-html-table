@@ -34,8 +34,8 @@
 
         // Set chart options
         var options = {'title':'Builds count per Application',
-                       'width':800,
-                       'height':600};
+                       'width':400,
+                       'height':200};
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
@@ -48,8 +48,9 @@
 <script src="https://code.highcharts.com/highcharts.js"></script>
 <script src="https://code.highcharts.com/modules/data.js"></script>
 <script src="https://code.highcharts.com/modules/drilldown.js"></script>
-
-<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+    
 <div id="chart_div"></div>
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
 </body>
 </html>
