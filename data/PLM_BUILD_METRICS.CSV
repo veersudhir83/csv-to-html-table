@@ -498,3 +498,4 @@ Manual,07/27/2016,14:46:56,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,22,PLM-
 Manual,07/27/2016,17:02:01,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,23,PLM-POWERPLM-DB,13,75 mins 11 secs,1 mins 35 secs,76 mins 47 secs,76.47
 Manual,07/28/2016,02:39:35,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,3,PLM-NuclearPLM-DB,3,55 mins 4 secs,1 mins 53 secs,56 mins 57 secs,56.57
 Manual,07/28/2016,05:53:36,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,482,PLM-WINDPLM-DB,422,9 mins 1 secs,0 mins 54 secs,9 mins 55 secs,9.55
+Auto,07/28/2016,06:55:33,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,483,PLM-WINDPLM-DB,423,14 mins 56 secs,0 mins 59 secs,15 mins 55 secs,15.55
