@@ -45,16 +45,20 @@ $(function () {
                 drilldown: 'AEROPLM'
             }, {
                 name: 'ENERGYPLM',
-                y: 194,
+                y: 196,
                 drilldown: 'ENERGYPLM'
             }, {
                 name: 'POWERPLM',
-                y: 6,
+                y: 13,
                 drilldown: 'POWERPLM'
             }, {
                 name: 'WINDPLM',
-                y: 263,
+                y: 279,
                 drilldown: 'WINDPLM'
+            }, {
+                name: 'NuclearPLM',
+                y: 1,
+                drilldown: 'NuclearPLM'
             }]
         }],
         drilldown: {
@@ -93,7 +97,7 @@ $(function () {
                     ],
                     [
                         'QA1',
-                        84
+                        86
                     ],
                     [
                         'QA2',
@@ -106,7 +110,11 @@ $(function () {
                 data: [
                     [
                         'DEV1',
-                        6
+                        9
+                    ],
+                    [
+                        'DEV2',
+                        4
                     ]
                 ]
             }, {
@@ -115,7 +123,7 @@ $(function () {
                 data: [
                     [
                         'DEV',
-                        41
+                        44
                     ],
                     [
                         'NEWDEV2',
@@ -123,27 +131,32 @@ $(function () {
                     ],
                     [
                         'DEV3',
-                        75
+                        77
                     ],
                     [
                         'DEV4',
-                        61
+                        67
                     ],
                     [
                         'QA',
-                        30
+                        31
                     ],
                     [
                         'QA2',
-                        33
+                        34
                     ],
                     [
                         'QA3',
-                        23
-                    ],
+                        26
+                    ]
+                ]
+            }, {
+                name: 'NuclearPLM',
+                id: 'NuclearPLM',
+                data: [
                     [
-                        'QA4',
-                        0
+                        'DEV16',
+                        1
                     ]
                 ]
             }]
