@@ -33,7 +33,7 @@ $(function () {
         },
 
         tooltip: {
-            enabled: false
+            enabled: true
         },
 
         series: [{
