@@ -535,3 +535,14 @@ Auto,08/01/2016,04:20:29,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,507,PLM
 Auto,08/01/2016,05:55:54,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,508,PLM-WINDPLM-DB,443,27 mins 56 secs,0 mins 53 secs,28 mins 50 secs,28.50
 Auto,08/01/2016,06:09:24,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,509,,,0 mins 0 secs,,0 mins 0 secs,0.0
 Auto,08/01/2016,07:03:52,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,510,,,0 mins 0 secs,,0 mins 0 secs,0.0
+Manual,08/01/2016,07:54:37,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,511,PLM-WINDPLM-DB,444,21 mins 4 secs,1 mins 0 secs,22 mins 5 secs,22.5
+Manual,08/01/2016,10:13:28,ENERGYPLM,QA2,Release_6_1_10,all,PLM-ENERGYPLM-APP,298,PLM-ENERGYPLM-DB,225,16 mins 50 secs,0 mins 30 secs,17 mins 21 secs,17.21
+Auto,08/01/2016,10:49:20,AEROPLM,DEV,Dev_3_10_0,db,PLM-AEROPLM-APP,189,PLM-AEROPLM-DB,197,5 mins 35 secs,1 mins 12 secs,6 mins 48 secs,6.48
+Auto,08/01/2016,10:55:58,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,513,PLM-WINDPLM-DB,445,15 mins 26 secs,0 mins 43 secs,16 mins 10 secs,16.10
+Manual,08/01/2016,11:47:05,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,4,PLM-NuclearPLM-DB,4,102 mins 28 secs,7 mins 8 secs,109 mins 36 secs,109.36
+Auto,08/01/2016,14:08:27,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,514,PLM-WINDPLM-DB,446,27 mins 46 secs,0 mins 51 secs,28 mins 37 secs,28.37
+Manual,08/01/2016,15:27:42,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,31,PLM-POWERPLM-DB,20,86 mins 21 secs,1 mins 31 secs,87 mins 52 secs,87.52
+Manual,08/01/2016,17:21:33,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,32,PLM-POWERPLM-DB,21,80 mins 14 secs,1 mins 31 secs,81 mins 45 secs,81.45
+Manual,08/01/2016,17:39:23,NuclearPLM,DEV16,Release_4_0,db,PLM-NuclearPLM-APP,5,PLM-NuclearPLM-DB,5,86 mins 5 secs,6 mins 13 secs,92 mins 19 secs,92.19
+Auto,08/02/2016,00:06:48,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,515,PLM-WINDPLM-DB,447,23 mins 19 secs,0 mins 55 secs,24 mins 14 secs,24.14
+Auto,08/02/2016,03:07:13,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,516,PLM-WINDPLM-DB,448,24 mins 16 secs,0 mins 52 secs,25 mins 8 secs,25.8
