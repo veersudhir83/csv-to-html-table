@@ -41,23 +41,23 @@ $(function () {
             colorByPoint: true,
             data: [{
                 name: 'AEROPLM',
-                y: 22,
+                y: 23,
                 drilldown: 'AEROPLM'
             }, {
                 name: 'ENERGYPLM',
-                y: 196,
+                y: 201,
                 drilldown: 'ENERGYPLM'
             }, {
                 name: 'POWERPLM',
-                y: 13,
+                y: 21,
                 drilldown: 'POWERPLM'
             }, {
                 name: 'WINDPLM',
-                y: 279,
+                y: 312,
                 drilldown: 'WINDPLM'
             }, {
                 name: 'NuclearPLM',
-                y: 1,
+                y: 4,
                 drilldown: 'NuclearPLM'
             }]
         }],
@@ -68,7 +68,7 @@ $(function () {
                 data: [
                     [
                         'DEV',
-                        12
+                        13
                     ],
                     [
                         'DEV2',
@@ -101,7 +101,7 @@ $(function () {
                     ],
                     [
                         'QA2',
-                        82
+                        87
                     ]
                 ]
             }, {
@@ -110,11 +110,11 @@ $(function () {
                 data: [
                     [
                         'DEV1',
-                        9
+                        13
                     ],
                     [
                         'DEV2',
-                        4
+                        8
                     ]
                 ]
             }, {
@@ -123,7 +123,7 @@ $(function () {
                 data: [
                     [
                         'DEV',
-                        44
+                        49
                     ],
                     [
                         'NEWDEV2',
@@ -131,23 +131,23 @@ $(function () {
                     ],
                     [
                         'DEV3',
-                        77
+                        84
                     ],
                     [
                         'DEV4',
-                        67
+                        78
                     ],
                     [
                         'QA',
-                        31
+                        35
                     ],
                     [
                         'QA2',
-                        34
+                        38
                     ],
                     [
                         'QA3',
-                        26
+                        28
                     ]
                 ]
             }, {
@@ -156,7 +156,7 @@ $(function () {
                 data: [
                     [
                         'DEV16',
-                        1
+                        4
                     ]
                 ]
             }]
