@@ -562,3 +562,14 @@ Manual,8/2/2016,16:41:00,POWERPLM,DEV2,Release_1_0,db,PLM-POWERPLM-APP,36,PLM-PO
 Auto,8/3/2016,0:01:30,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,524,PLM-WINDPLM-DB,454,19 mins 20 secs,1 mins 2 secs,20 mins 22 secs,20.22
 Auto,08/03/2016,03:01:08,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,525,PLM-WINDPLM-DB,455,16 mins 39 secs,0 mins 52 secs,17 mins 32 secs,17.32
 Auto,8/3/2016,03:19:52,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,526,PLM-WINDPLM-DB,456,19 mins 9 secs,0 mins 42 secs,19 mins 51 secs,19.51
+Auto,8/3/2016,05:55:47,WINDPLM,QA3,Release_4_3,all,PLM-WINDPLM-APP,527,PLM-WINDPLM-DB,457,18 mins 18 secs,0 mins 41 secs,19 mins 0 secs,19.0
+Auto,8/3/2016,06:13:44,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,528,PLM-WINDPLM-DB,458,6 mins 28 secs,0 mins 39 secs,7 mins 8 secs,7.8
+Auto,8/3/2016,06:28:44,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,529,PLM-WINDPLM-DB,459,6 mins 30 secs,0 mins 42 secs,7 mins 13 secs,7.13
+Auto,8/3/2016,06:57:59,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,530,PLM-WINDPLM-DB,460,18 mins 5 secs,0 mins 37 secs,18 mins 43 secs,18.43
+Auto,8/3/2016,07:12:53,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,531,PLM-WINDPLM-DB,461,14 mins 33 secs,0 mins 43 secs,15 mins 17 secs,15.17
+Auto,8/3/2016,08:54:46,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,532,PLM-WINDPLM-DB,462,15 mins 11 secs,0 mins 56 secs,16 mins 7 secs,16.7
+Manual,8/3/2016,10:38:13,ENERGYPLM,QA2,Release_6_1_10,db,PLM-ENERGYPLM-APP,300,PLM-ENERGYPLM-DB,227,10 mins 40 secs,1 mins 0 secs,11 mins 41 secs,11.41
+Auto,8/3/2016,11:04:04,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,533,PLM-WINDPLM-DB,463,18 mins 55 secs,1 mins 1 secs,19 mins 57 secs,19.57
+Manual,8/3/2016,11:41:45,NuclearPLM,DEV16,Release_4_0,app,PLM-NuclearPLM-APP,11,,,0 mins 0 secs,,0 mins 0 secs,0.0
+Auto,8/3/2016,13:58:06,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,534,PLM-WINDPLM-DB,464,19 mins 9 secs,0 mins 48 secs,19 mins 57 secs,19.57
+Auto,8/3/2016,23:56:46,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,535,PLM-WINDPLM-DB,465,14 mins 55 secs,0 mins 45 secs,15 mins 41 secs,15.41
